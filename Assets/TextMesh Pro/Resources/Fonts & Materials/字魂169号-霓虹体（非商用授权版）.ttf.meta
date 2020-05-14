@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8e13cac7c0a6ea34e803635cdee7b936
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: zihun169hao-nihongtifeishangyong
+  fontNames:
+  - zihun169hao-nihongtifeishangyong
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8b5248ffe51ba1b418e7e35e4d902bbd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
